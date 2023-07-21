@@ -1,0 +1,3 @@
+- 👋 Hola, soy Esmeralda y bienvenid@ a mi repositorio.
+- 👀 Soy una persona apasionada por la pastelería y la programación, principalmente en python.
+- 🌱 Actualmente estoy aprendiendo y espero mis programas te puedan ayudar a mejorar en tu programación.
